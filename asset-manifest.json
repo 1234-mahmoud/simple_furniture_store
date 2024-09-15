@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/1234-mahmoud/simple_furniture_store/static/css/main.d255d763.css",
+    "main.js": "/1234-mahmoud/simple_furniture_store/static/js/main.ad0d76b5.js",
+    "index.html": "/1234-mahmoud/simple_furniture_store/index.html",
+    "main.d255d763.css.map": "/1234-mahmoud/simple_furniture_store/static/css/main.d255d763.css.map",
+    "main.ad0d76b5.js.map": "/1234-mahmoud/simple_furniture_store/static/js/main.ad0d76b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d255d763.css",
+    "static/js/main.ad0d76b5.js"
+  ]
+}
